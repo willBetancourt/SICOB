@@ -20,3 +20,7 @@ flowchart LR
 4. El sistema reproduce el video en Lengua de Señas.
 
 **Referencia de origen:** documento SICOB, sección V-B, Fig. 6.
+
+## Imagen del diagrama
+
+![Diagrama del caso de uso](./diagrama.svg)
