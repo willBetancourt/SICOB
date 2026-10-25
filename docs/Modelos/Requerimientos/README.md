@@ -57,3 +57,15 @@ flowchart LR
 - RNF4: disponibilidad objetivo del 99% solo si la arquitectura y el entorno lo permiten; debe negociarse.
 - RNF5: catálogo ampliable.
 - RNF6: soporte inicial de LSC con contenidos validados.
+
+
+## Casos de uso organizados por subcarpetas
+
+Cada carpeta contiene la descripción, el flujo paso a paso y una imagen SVG del diagrama correspondiente.
+
+1. [CU-01 — Comunicación básica: persona sorda hacia oyente](./CU01_Comunicacion_Basica_Sordo_Oyente/)
+2. [CU-02 — Comunicación básica: persona oyente hacia sorda](./CU02_Comunicacion_Basica_Oyente_Sordo/)
+3. [CU-03 — Comunicación compleja: texto a voz](./CU03_Comunicacion_Compleja_Texto_a_Voz/)
+4. [CU-04 — Gestión de contenidos](./CU04_Gestion_Contenidos/)
+5. [Diagrama general de casos de uso](./Diagrama_General_Casos_de_Uso/)
+
