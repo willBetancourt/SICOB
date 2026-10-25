@@ -20,3 +20,7 @@ flowchart LR
 4. El sistema reproduce el mensaje de voz al oyente.
 
 **Referencia de origen:** documento SICOB, sección V-C, Fig. 7.
+
+## Imagen del diagrama
+
+![Diagrama del caso de uso](./diagrama.svg)
