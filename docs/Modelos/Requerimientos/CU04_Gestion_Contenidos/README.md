@@ -21,3 +21,7 @@ flowchart LR
 4. El sistema guarda los cambios y los publica para personas sordas y oyentes.
 
 **Referencia de origen:** documento SICOB, sección V-D, Fig. 8.
+
+## Imagen del diagrama
+
+![Diagrama del caso de uso](./diagrama.svg)
