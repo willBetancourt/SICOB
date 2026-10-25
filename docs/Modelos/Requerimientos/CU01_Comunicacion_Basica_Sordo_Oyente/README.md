@@ -5,13 +5,6 @@
 
 La persona abre el panel de botones básicos, selecciona el mensaje deseado y SICOB identifica el mensaje asociado. A continuación, el sistema muestra el mensaje y reproduce el mensaje básico en audio.
 
-## Diagrama del caso de uso
-```mermaid
-flowchart LR
-    S[Persona Sorda/Muda] --> U((Enviar Mensaje Básico por Botones))
-    U -. <<include>> .-> M((Mostrar Mensaje Básico al Oyente))
-    U -. <<include>> .-> A((Reproducir Mensaje Básico en Audio))
-```
 
 ## Flujo paso a paso
 1. La persona sorda abre el panel de botones básicos.
