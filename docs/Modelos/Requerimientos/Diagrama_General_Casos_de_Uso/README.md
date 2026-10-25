@@ -22,3 +22,7 @@ flowchart LR
 - Administrador de Contenidos.
 
 **Referencia de origen:** documento SICOB, sección VI, Fig. 9.
+
+## Imagen del diagrama
+
+![Diagrama del caso de uso](./diagrama.svg)
